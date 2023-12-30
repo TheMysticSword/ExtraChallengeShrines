@@ -1,0 +1,22 @@
+{
+  "strings": {
+    "EXTRACHALLENGESHRINES_SHRINE_CROWN_NAME": "Templo do Céu",
+    "EXTRACHALLENGESHRINES_SHRINE_CROWN_CONTEXT": "Orar para o Templo do Céu",
+    "EXTRACHALLENGESHRINES_SHRINE_CROWN_USE_MESSAGE_2P": "<style=cShrine>Você fez um convite para o desafio do Céu...</color>",
+    "EXTRACHALLENGESHRINES_SHRINE_CROWN_USE_MESSAGE": "<style=cShrine>{0} fez um convite para o desafio do Céu...</color>",
+    "EXTRACHALLENGESHRINES_SHRINE_CROWN_BEGIN_TRIAL": "<style=cShrine>Que o desafio do Céu... comece!</style>",
+
+    "EXTRACHALLENGESHRINES_SHRINE_ROCK_NAME": "Templo da Terra",
+    "EXTRACHALLENGESHRINES_SHRINE_ROCK_CONTEXT": "Orar para o Templo da Terra",
+    "EXTRACHALLENGESHRINES_SHRINE_ROCK_USE_MESSAGE_2P": "<style=cShrine>Você fez um convite para o desafio da Terra...</color>",
+    "EXTRACHALLENGESHRINES_SHRINE_ROCK_USE_MESSAGE": "<style=cShrine>{0} fez um convite para o desafio da Terra...</color>",
+    "EXTRACHALLENGESHRINES_SHRINE_ROCK_BEGIN_TRIAL": "<style=cShrine>Que o desafio da Terra... comece!</style>",
+
+    "EXTRACHALLENGESHRINES_SHRINE_EYE_NAME": "Templo do Vento",
+    "EXTRACHALLENGESHRINES_SHRINE_EYE_CONTEXT": "Orar para o Templo do Vento",
+    "EXTRACHALLENGESHRINES_SHRINE_EYE_INTERACTION_HEADER": "Qual é a sua visão?",
+    "EXTRACHALLENGESHRINES_SHRINE_EYE_USE_MESSAGE_2P": "<style=cShrine>Você fez um convite para o desafio do Vento...</color>",
+    "EXTRACHALLENGESHRINES_SHRINE_EYE_USE_MESSAGE": "<style=cShrine>{0} fez um convite para o desafio do Vento...</color>",
+    "EXTRACHALLENGESHRINES_SHRINE_EYE_BEGIN_TRIAL": "<style=cShrine>Que o desafio do Vento... comece!</style>"
+  }
+}
